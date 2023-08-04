@@ -1,0 +1,41 @@
+* {
+    padding: 15;
+    margin: 15;
+}
+/* color de la pagina */
+:root {
+    --color1 :#9d9382 ;
+    --color2 :#ffc1b2 ;
+    --color3 :#ffdbc8 ;
+    --color4 :#fff6c7 ;
+    --color5 :#dcd7c2 ;
+}
+
+/*hader*/
+.Aquí {
+    background-color: #dcd7c2;
+    padding: 15;
+    margin: 15;
+}
+
+.Titulo {
+    background-color: #fa76d9;
+    padding: 1em;
+}
+
+.Logo {
+    padding: 15;
+    margin: 15;
+}
+
+h1 {
+    --color5 :#dcd7c2 ;
+      /*modificar pantalla*/
+
+.Fondo {
+    background-color: #5809b3;
+    
+.footer  {
+        font-style: var(--color1);
+    }
+}
